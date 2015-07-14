@@ -1,6 +1,7 @@
 /* Mobile Styles - You can edit the media query from the theme settings page. */
 #branding {
   padding: 0;
+  margin:0;
 }
 
 #branding.has-primary-tabs {
